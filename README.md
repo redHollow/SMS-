@@ -1,4 +1,4 @@
-# SMS-
+# SMS
 SMS & Email module
 This module is been developed with php and html.
 Features
